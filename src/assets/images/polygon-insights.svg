@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70.282" height="81" viewBox="0 0 70.282 81">
+    <defs>
+        <style>
+            .prefix__cls-3,.prefix__cls-4{stroke-linecap:round}.prefix__cls-3{stroke-linejoin:round}.prefix__cls-3,.prefix__cls-4{fill:none;stroke:#003057}.prefix__cls-6{stroke:none}
+        </style>
+    </defs>
+    <g id="prefix__polygon-insights" transform="translate(.5 .5)">
+        <path id="prefix__polygon-form" d="M146.957 65.783v-40l-34.641-20-34.641 20v40l34.641 20z" transform="translate(-77.675 -5.783)" style="stroke-linejoin:round;stroke-linecap:round;stroke:#eff1f2;fill:#fff"/>
+        <g id="prefix__pictogram-last-insight" transform="translate(19 26)">
+            <g id="prefix__trace" style="fill:#fff">
+                <path d="M20 27.5H-1.846C-.804 26.823.41 25.673.499 23.797l.001-.011V2C.5 1.173 1.173.5 2 .5h18c.827 0 1.5.673 1.5 1.5v24c0 .827-.673 1.5-1.5 1.5z" class="prefix__cls-6" transform="translate(7.316)"/>
+                <path d="M2 1c-.551 0-1 .449-1 1v21.797l-.001.024C.933 25.224.315 26.253-.425 27H20c.551 0 1-.449 1-1V2c0-.551-.449-1-1-1H2m0-1h18c1.105 0 2 .895 2 2v24c0 1.105-.895 2-2 2H-3.08c-2.21 0 2.906-.52 3.08-4.226V2C0 .895.895 0 2 0z" style="fill:#003057;stroke:none" transform="translate(7.316)"/>
+            </g>
+            <path id="prefix__trace-2" d="M5195.49 4091.243s.326 4.35-3.893 4.35c-3.133-.122-3.91-2.716-3.91-5.018-.009.1 0-7.341 0-10.235" class="prefix__cls-3" data-name="trace" transform="translate(-5187.684 -4068.1)"/>
+            <path id="prefix__trace-3" d="M5191.409 4069.474V4091s.006 2.646-1.9 2.5-1.819-2.5-1.819-2.5v-10.682h1.554" class="prefix__cls-3" data-name="trace" transform="translate(-5185.582 -4068)"/>
+            <path id="prefix__line" d="M0 0L6 0" class="prefix__cls-4" transform="translate(10.816 12.3)"/>
+            <path id="prefix__line-2" d="M0 0L6 0" class="prefix__cls-4" data-name="line" transform="translate(10.816 14.3)"/>
+            <path id="prefix__line-3" d="M0 0L6 0" class="prefix__cls-4" data-name="line" transform="translate(10.816 16.3)"/>
+            <path id="prefix__line-4" d="M0 0L6 0" class="prefix__cls-4" data-name="line" transform="translate(10.816 18.3)"/>
+            <path id="prefix__line-5" d="M0 0L6 0" class="prefix__cls-4" data-name="line" transform="translate(10.816 20.3)"/>
+            <path id="prefix__line-6" d="M0 0L6 0" class="prefix__cls-4" data-name="line" transform="translate(10.816 22.3)"/>
+            <path id="prefix__line-7" d="M0 0L6 0" class="prefix__cls-4" data-name="line" transform="translate(10.816 24.3)"/>
+            <path id="prefix__line-8" d="M0 0L6 0" class="prefix__cls-4" data-name="line" transform="translate(19.816 12.3)"/>
+            <path id="prefix__line-9" d="M0 0L6 0" class="prefix__cls-4" data-name="line" transform="translate(19.816 14.3)"/>
+            <path id="prefix__line-10" d="M0 0L6 0" class="prefix__cls-4" data-name="line" transform="translate(19.816 16.3)"/>
+            <path id="prefix__line-11" d="M0 0L6 0" class="prefix__cls-4" data-name="line" transform="translate(19.816 18.3)"/>
+            <path id="prefix__line-12" d="M0 0L6 0" class="prefix__cls-4" data-name="line" transform="translate(19.816 20.3)"/>
+            <path id="prefix__line-13" d="M0 0L6 0" class="prefix__cls-4" data-name="line" transform="translate(19.816 22.3)"/>
+            <path id="prefix__line-14" d="M0 0L6 0" class="prefix__cls-4" data-name="line" transform="translate(19.816 24.3)"/>
+            <g id="prefix__trace-4" data-name="trace" transform="translate(10.316 3)" style="stroke:#248ed8;fill:#fff">
+                <rect width="16" height="7" class="prefix__cls-6" rx="2"/>
+                <rect width="15" height="6" x=".5" y=".5" rx="1.5" style="fill:none"/>
+            </g>
+        </g>
+    </g>
+</svg>

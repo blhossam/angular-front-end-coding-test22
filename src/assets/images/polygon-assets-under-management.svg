@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70.282" height="81" viewBox="0 0 70.282 81">
+    <g id="prefix__polygon-assets-under-management" transform="translate(.5 .5)">
+        <path id="prefix__polygon-form" d="M146.957 65.783v-40l-34.641-20-34.641 20v40l34.641 20z" transform="translate(-77.675 -5.783)" style="stroke-linecap:round;stroke-linejoin:round;fill:#fff;stroke:#eff1f2"/>
+        <g id="prefix__icon-AUM" transform="translate(19.5 25.862)">
+            <path id="prefix__trace" d="M72.3 19.3a11.612 11.612 0 0 1 11.61 11.61H72.3z" transform="translate(-55.395 -19.3)" style="stroke:#248ed8;fill:none;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round"/>
+            <path id="prefix__trace-2" d="M30.91 42.853V35.9a11.61 11.61 0 1 0 11.61 11.61H30.91" data-name="trace" transform="translate(-19.3 -30.605)" style="stroke:#000;fill:none;stroke-miterlimit:10;stroke-linecap:round;stroke-linejoin:round"/>
+        </g>
+    </g>
+</svg>

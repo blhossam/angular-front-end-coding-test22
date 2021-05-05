@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70.282" height="81" viewBox="0 0 70.282 81">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#fff}.prefix__cls-4{stroke-linecap:round}.prefix__cls-2{stroke:#000}.prefix__cls-4{stroke:#248ed8}.prefix__cls-4,.prefix__cls-6{fill:none}.prefix__cls-5{stroke:none}
+        </style>
+    </defs>
+    <g id="prefix__polygon-portfolio-models" transform="translate(.5 .5)">
+        <path id="prefix__polygon-form" d="M146.957 65.783v-40l-34.641-20-34.641 20v40l34.641 20z" transform="translate(-77.675 -5.783)" style="stroke-linejoin:round;stroke-linecap:round;stroke:#eff1f2;fill:#fff"/>
+        <g id="prefix__pictogram-several-portfolio-models" transform="translate(18 26)">
+            <g id="prefix__trace" class="prefix__cls-2" transform="translate(0 1.477)">
+                <rect width="9" height="26" class="prefix__cls-5" rx="2"/>
+                <rect width="8" height="25" x=".5" y=".5" class="prefix__cls-6" rx="1.5"/>
+            </g>
+            <g id="prefix__trace-2" class="prefix__cls-2" data-name="trace" transform="translate(11 1.477)">
+                <rect width="9" height="26" class="prefix__cls-5" rx="2"/>
+                <rect width="8" height="25" x=".5" y=".5" class="prefix__cls-6" rx="1.5"/>
+            </g>
+            <g id="prefix__trace-3" class="prefix__cls-2" data-name="trace" transform="translate(22 1.477)">
+                <rect width="9" height="26" class="prefix__cls-5" rx="2"/>
+                <rect width="8" height="25" x=".5" y=".5" class="prefix__cls-6" rx="1.5"/>
+            </g>
+            <g id="prefix__trace-4" class="prefix__cls-2" data-name="trace" transform="translate(2 3.477)">
+                <circle cx="2.5" cy="2.5" r="2.5" class="prefix__cls-5"/>
+                <circle cx="2.5" cy="2.5" r="2" class="prefix__cls-6"/>
+            </g>
+            <g id="prefix__trace-5" class="prefix__cls-2" data-name="trace" transform="translate(13 3.477)">
+                <circle cx="2.5" cy="2.5" r="2.5" class="prefix__cls-5"/>
+                <circle cx="2.5" cy="2.5" r="2" class="prefix__cls-6"/>
+            </g>
+            <g id="prefix__trace-6" class="prefix__cls-2" data-name="trace" transform="translate(24 3.477)">
+                <circle cx="2.5" cy="2.5" r="2.5" class="prefix__cls-5"/>
+                <circle cx="2.5" cy="2.5" r="2" class="prefix__cls-6"/>
+            </g>
+            <path id="prefix__trace-7" d="M48.257 18.683l-3.079-2.694-3.078 2.694V6h6.157z" data-name="trace" transform="translate(-15.699 -6)" style="stroke:#248ed8;stroke-linejoin:round;stroke-linecap:round;fill:#fff"/>
+            <path id="prefix__trace-8" d="M0 0L4 0" class="prefix__cls-4" data-name="trace" transform="translate(2.5 24.977)"/>
+            <path id="prefix__trace-9" d="M0 0L4 0" class="prefix__cls-4" data-name="trace" transform="translate(2.5 22.977)"/>
+            <path id="prefix__trace-10" d="M0 0L4 0" class="prefix__cls-4" data-name="trace" transform="translate(2.5 20.977)"/>
+            <path id="prefix__trace-11" d="M0 0L4 0" class="prefix__cls-4" data-name="trace" transform="translate(13.5 24.977)"/>
+            <path id="prefix__trace-12" d="M0 0L4 0" class="prefix__cls-4" data-name="trace" transform="translate(13.5 22.977)"/>
+            <path id="prefix__trace-13" d="M0 0L4 0" class="prefix__cls-4" data-name="trace" transform="translate(13.5 20.977)"/>
+            <path id="prefix__trace-14" d="M0 0L4 0" class="prefix__cls-4" data-name="trace" transform="translate(24.5 24.977)"/>
+            <path id="prefix__trace-15" d="M0 0L4 0" class="prefix__cls-4" data-name="trace" transform="translate(24.5 22.977)"/>
+            <path id="prefix__trace-16" d="M0 0L4 0" class="prefix__cls-4" data-name="trace" transform="translate(24.5 20.977)"/>
+        </g>
+    </g>
+</svg>

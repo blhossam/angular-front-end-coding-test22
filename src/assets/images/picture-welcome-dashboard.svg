@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="203" height="163.62" viewBox="0 0 203 163.62">
+    <defs>
+        <filter id="prefix__trace" width="128.609" height="87.643" x="0" y="2.954" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".251"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="prefix__trace-2" width="158" height="157" x="34" y="6.62" filterUnits="userSpaceOnUse">
+            <feOffset dy="10"/>
+            <feGaussianBlur result="blur-2" stdDeviation="10"/>
+            <feFlood flood-opacity=".251"/>
+            <feComposite in2="blur-2" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="prefix__trace-3" width="148" height="148" x="39" y="10.62" filterUnits="userSpaceOnUse">
+            <feOffset dy="10"/>
+            <feGaussianBlur result="blur-3" stdDeviation="10"/>
+            <feFlood flood-opacity=".251"/>
+            <feComposite in2="blur-3" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <filter id="prefix__trace-4" width="69" height="68" x="134" y="32.62" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur-4" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur-4" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+        <style>
+            .prefix__cls-4,.prefix__cls-6{fill:#fff}.prefix__cls-10{fill:#003057}.prefix__cls-3,.prefix__cls-5{fill:#eff1f2}.prefix__cls-5,.prefix__cls-6{stroke:#003057}.prefix__cls-8{fill:#00c4b3}.prefix__cls-9{fill:#248ed8}.prefix__cls-11{fill:none;stroke:#525354;stroke-linecap:round;stroke-linejoin:round}.prefix__cls-12{fill:#d7dadb}
+        </style>
+    </defs>
+    <g id="prefix__picture-welcome-dashboard" transform="translate(9 1.04)">
+        <g transform="translate(-9 -1.04)">
+            <path id="prefix__trace-5" d="M100.839 38.174a20.489 20.489 0 0 1-7.711 39.469H23.481a20.485 20.485 0 0 1-8.142-39.28q-.049-.837-.049-1.686a28.68 28.68 0 0 1 53.64-14.122 22.547 22.547 0 0 1 31.909 15.619z" data-name="trace" transform="translate(6 .95)" style="fill-rule:evenodd;fill:#fff"/>
+        </g>
+        <path id="prefix__trace-6" d="M69.524 402.315L49.131 418.63v-8.124c-13.593-.491-21.776 5.566-28.686 12.3 0-16 14.249-28.6 28.686-28.74V386zm0 0" data-name="trace" transform="translate(-2.868 -386)" style="stroke:#fff;fill:#003057;fill-rule:evenodd"/>
+        <g transform="translate(-9 -1.04)">
+            <ellipse id="prefix__trace-7" cx="49" cy="48.5" class="prefix__cls-3" data-name="trace" rx="49" ry="48.5" transform="translate(64 26.62)"/>
+        </g>
+        <g transform="translate(-9 -1.04)">
+            <circle id="prefix__trace-8" cx="44" cy="44" r="44" class="prefix__cls-4" data-name="trace" transform="translate(69 30.62)"/>
+        </g>
+        <path id="prefix__trace-9" d="M7408.59 4122.143s-3.636-6.4-10.739-7.729-26.017 0-26.017 0v14.708h36.756z" class="prefix__cls-5" data-name="trace" transform="translate(-7312.358 -4010.426)"/>
+        <path id="prefix__trace-10" d="M7355 4113.358h2.438a29.6 29.6 0 0 1 16.589-5.35h13.5s11.77-.165 8.548 5.35c-1.124 3.574-8.548 3.208-8.548 3.208h-8.146s-4.178.46-3.975 4.505 5.712 3.664 5.712 3.664h26.422s6.892-.148 16.141-6.7 4.855 6.7 4.855 6.7-2.134 4.329-9.528 7.292-10.973 5.905-25.906 5.905H7355z" class="prefix__cls-6" data-name="trace" transform="translate(-7310.555 -4010.851)"/>
+        <path id="prefix__trace-11" d="M7407.632 4125.37s12.354-6.922 13.682-8.7 4.414-3.518 6.739-2.111a3.377 3.377 0 0 1 1.511 3.882s-8.415 7.035-17.69 6.926-4.242.003-4.242.003z" class="prefix__cls-5" data-name="trace" transform="translate(-7316.049 -4011.498)"/>
+        <g id="prefix__trace-12" data-name="trace" style="stroke:#003057;fill:#003057">
+            <path d="M0 0h8a4 4 0 0 1 4 4v24a4 4 0 0 1-4 4H0V0z" style="stroke:none" transform="translate(33 98.58)"/>
+            <path d="M1 .5h7A3.5 3.5 0 0 1 11.5 4v24A3.5 3.5 0 0 1 8 31.5H1a.5.5 0 0 1-.5-.5V1A.5.5 0 0 1 1 .5z" style="fill:none" transform="translate(33 98.58)"/>
+        </g>
+        <path id="prefix__trace-13" d="M0 0H38.838V13.389H0z" class="prefix__cls-8" data-name="trace" transform="rotate(90 37.87 86.498)"/>
+        <path id="prefix__trace-14" d="M0 0H30.801V13.389H0z" class="prefix__cls-9" data-name="trace" transform="rotate(90 25.144 81.809)"/>
+        <path id="prefix__trace-15" d="M0 0H20.084V13.389H0z" class="prefix__cls-10" data-name="trace" transform="rotate(90 11.077 78.46)"/>
+        <g transform="translate(-9 -1.04)">
+            <ellipse id="prefix__trace-16" cx="25.5" cy="25" class="prefix__cls-4" data-name="trace" rx="25.5" ry="25" transform="translate(143 38.62)"/>
+        </g>
+        <path id="prefix__trace-17" d="M124.149 107.885a16.274 16.274 0 1 0 16.275 16.27 16.288 16.288 0 0 0-16.275-16.27zm0 25.7a9.435 9.435 0 1 1 9.436-9.435 9.446 9.446 0 0 1-9.436 9.44z" class="prefix__cls-3" data-name="trace" transform="translate(35.708 -61.452)"/>
+        <path id="prefix__trace-18" d="M50.075 67.068a16.986 16.986 0 0 1 30.088-10.816l4.481-4.482a23.309 23.309 0 1 0-19.911 38.495v-6.358a17.022 17.022 0 0 1-14.658-16.839zm-3.652.36a.36.36 0 0 1-.36-.36 21.026 21.026 0 0 1 21-21 .36.36 0 1 1 0 .721 20.305 20.305 0 0 0-20.28 20.279.36.36 0 0 1-.36.36z" class="prefix__cls-10" data-name="trace" transform="translate(92.792 -4.366)"/>
+        <path id="prefix__trace-19" d="M242.937 357.575c-.544 0-1.081-.027-1.612-.077v6.334c.533.037 1.07.057 1.612.057a23.3 23.3 0 0 0 18.912-9.7l-5.505-3.181a16.974 16.974 0 0 1-13.407 6.567zm14.913-3.244a.36.36 0 0 1 .53.488 20.945 20.945 0 0 1-15.443 6.768.36.36 0 1 1 0-.72 20.342 20.342 0 0 0 14.912-6.536z" class="prefix__cls-9" data-name="trace" transform="translate(-83.079 -277.873)"/>
+        <path id="prefix__trace-20" d="M383.828 121.767l-4.5 4.5a16.959 16.959 0 0 1 .293 20.1l5.487 3.17a23.268 23.268 0 0 0-1.282-27.77z" class="prefix__cls-8" data-name="trace" transform="translate(-205.926 -73.81)"/>
+        <path id="prefix__trace-21" d="M0 0L0.167 9.844" class="prefix__cls-11" data-name="trace" transform="rotate(41 2.806 247.752)"/>
+        <circle id="prefix__trace-22" cx="1.492" cy="1.492" r="1.492" class="prefix__cls-11" data-name="trace" transform="rotate(41 .938 238.477)"/>
+        <circle id="prefix__trace-23" cx="1.492" cy="1.492" r="1.492" class="prefix__cls-11" data-name="trace" transform="rotate(41 -3.089 249.832)"/>
+        <path id="prefix__trace-24" d="M51.389 49.511a3.939 3.939 0 0 1-3.939 3.939H15.939A3.939 3.939 0 0 1 12 49.511V21.939A3.939 3.939 0 0 1 15.939 18H47.45a3.939 3.939 0 0 1 3.939 3.939z" class="prefix__cls-10" data-name="trace" transform="translate(-2.689 33.603)"/>
+        <path id="prefix__trace-25" d="M51.389 47.511a3.939 3.939 0 0 1-3.939 3.939H15.939A3.939 3.939 0 0 1 12 47.511V19.939A3.939 3.939 0 0 1 15.939 16H47.45a3.939 3.939 0 0 1 3.939 3.939z" class="prefix__cls-4" data-name="trace" transform="translate(-2.689 34.425)"/>
+        <path id="prefix__trace-26" d="M51.389 45.511a3.939 3.939 0 0 1-3.939 3.939H15.939A3.939 3.939 0 0 1 12 45.511V17.939A3.939 3.939 0 0 1 15.939 14H47.45a3.939 3.939 0 0 1 3.939 3.939z" class="prefix__cls-10" data-name="trace" transform="translate(-2.689 34.456)"/>
+        <path id="prefix__trace-27" d="M51.389 44.81a4.023 4.023 0 0 1-3.939 4.1H15.939A4.023 4.023 0 0 1 12 44.81V16.1a4.023 4.023 0 0 1 3.939-4.1H47.45a4.023 4.023 0 0 1 3.939 4.1z" class="prefix__cls-6" data-name="trace" transform="translate(-2.689 33.695)"/>
+        <path id="prefix__trace-28" d="M0 0H12V11H0z" class="prefix__cls-10" data-name="trace" transform="translate(13 57.58)"/>
+        <path id="prefix__trace-29" d="M0 0H12V1H0z" class="prefix__cls-12" data-name="trace" transform="translate(13 70.58)"/>
+        <path id="prefix__trace-30" d="M0 0H17V2H0z" class="prefix__cls-12" data-name="trace" transform="translate(28 57.58)"/>
+        <path id="prefix__trace-31" d="M0 0H32V5H0z" class="prefix__cls-12" data-name="trace" transform="translate(13 49.58)"/>
+        <path id="prefix__trace-32" d="M0 0H17V2H0z" class="prefix__cls-12" data-name="trace" transform="translate(28 60.58)"/>
+        <path id="prefix__trace-33" d="M0 0H17V1H0z" class="prefix__cls-12" data-name="trace" transform="translate(28 64.58)"/>
+        <path id="prefix__trace-34" d="M0 0H17V1H0z" class="prefix__cls-12" data-name="trace" transform="translate(28 67.58)"/>
+        <path id="prefix__trace-35" d="M0 0H17V1H0z" class="prefix__cls-12" data-name="trace" transform="translate(28 70.58)"/>
+        <path id="prefix__trace-36" d="M0 0H17V2H0z" class="prefix__cls-12" data-name="trace" transform="translate(28 73.58)"/>
+        <path id="prefix__trace-37" d="M0 0H17V2H0z" class="prefix__cls-12" data-name="trace" transform="translate(28 76.58)"/>
+        <path id="prefix__trace-38" d="M0 0H12V2H0z" class="prefix__cls-12" data-name="trace" transform="translate(13 73.58)"/>
+        <path id="prefix__trace-39" d="M0 0H12V2H0z" class="prefix__cls-12" data-name="trace" transform="translate(13 76.58)"/>
+        <path id="prefix__trace-40" d="M-10948.829 2359.385v-1.585l3.764-3.375 2.529 2.135 1.326-1.042 2.366 2.282v1.581z" class="prefix__cls-4" data-name="trace" transform="translate(10963.023 -2291.57)"/>
+        <circle id="prefix__trace-41" cx="1.187" cy="1.187" r="1.187" class="prefix__cls-4" data-name="trace" transform="translate(20.786 59.355)"/>
+    </g>
+</svg>
