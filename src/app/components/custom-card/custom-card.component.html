@@ -1,0 +1,12 @@
+  <mat-card class="custom-card" >
+    <mat-card-header class="custom-card-header">
+      <p>{{ cardTitle }}</p>
+    </mat-card-header>
+    <span *ngIf="badge" [matBadge]="badge" matBadgePosition="after"></span>
+    <img *ngIf="image" [src]="image" class="custom-card-img">
+    <mat-card-content class="custom-card-content">
+      <ng-content></ng-content>
+    </mat-card-content>
+  </mat-card>
+
+

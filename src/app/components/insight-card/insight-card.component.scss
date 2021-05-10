@@ -1,0 +1,71 @@
+@import '../../../variables/colors';
+@import '../../../variables/typography';
+
+.insight-card {
+  padding: 0;
+  margin: 18px;
+  box-shadow: none;
+  border: 1px solid;
+  border-color: $pearl;
+
+  &-header {
+    background-color: $primary;
+  }
+
+  &-title {
+    margin: 0;
+    padding: 12px 0;
+    font-size: 16px;
+    letter-spacing: 1px;
+    font-weight: 300;
+    color: $smoke;
+    opacity: 0.8;
+  }
+
+  &-image {
+    width: 100%;
+    margin: 0;
+  }
+
+  &-p {
+    color: $primary;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 16px 16px 32px;
+  }
+
+  &-by {
+    padding: 16px 8px;
+    color: $fossil;
+
+    >p {
+      font-size: 20px;
+      margin: 0;
+
+      >span {
+        color: $shadow;
+      }
+    }
+  }
+
+  &-divider.mat-divider-horizontal {
+    background-color: $secondary;
+    border-top-width: 2px;
+    opacity: 0.5;
+    width: 90%;
+    left: 16px;
+  }
+
+  &-description {
+    margin: 0;
+    padding: 0px 16px 16px;
+    color: $shadow;
+  }
+
+  &-regions {
+    padding: 10px 16px;
+    color: $shadow;
+    font-size: 14px;
+    font-weight: 300;
+  }
+}

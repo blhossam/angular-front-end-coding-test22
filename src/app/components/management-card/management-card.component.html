@@ -1,0 +1,46 @@
+<app-custom-card image="../../assets/images/polygon-assets-under-management.svg"
+                 [badge]="noification"
+                 [cardTitle]="title">
+  <table mat-table [dataSource]="dataSource">
+
+    <ng-container matColumnDef="portfolioModel" class="portfolio-model">
+      <th mat-header-cell *matHeaderCellDef class="portfolio-model-th"> PORTFOLIO MODEL </th>
+      <td mat-cell *matCellDef="let element" class="portfolio-model-td">
+        {{element.portfolioModel}}
+        <span>|</span>
+        {{element.currency}}<sup>{{ element.sup }}</sup>
+      </td>
+    </ng-container>
+
+    <ng-container matColumnDef="currentMV" class="currentMV">
+      <th mat-header-cell *matHeaderCellDef class="currentMV-th"> CURRENT MV </th>
+      <td mat-cell *matCellDef="let element" class="currentMV-td"> {{element.currentMV}} </td>
+    </ng-container>
+
+    <ng-container matColumnDef="upAndDown" class="upAndDown">
+      <th mat-header-cell *matHeaderCellDef class="upAndDown-th">
+        <mat-icon>swap_vert</mat-icon>
+      </th>
+      <td mat-cell *matCellDef="let element" class="upAndDown-td">
+        <div style="text-align: end;" *ngIf="element.subData; else icon">
+          <button mat-button (click)="opened = !opened">
+            <mat-icon *ngIf="opened">expand_less</mat-icon>
+            <mat-icon *ngIf="!opened">expand_more</mat-icon>
+          </button>
+        </div>
+        <ng-template #icon>
+          <mat-icon>expand_more</mat-icon>
+        </ng-template>
+      </td>
+    </ng-container>
+
+    <tr mat-header-row *matHeaderRowDef="displayedColumns"></tr>
+    <tr mat-row *matRowDef="let row; columns: displayedColumns;"></tr>
+  </table>
+  <div *ngIf="opened">
+    <div class="expended" fxLayout *ngFor="let data of dataSource[2].subData" fxLayoutAlign="space-between">
+      <p> >{{data.portfolioModel}} </p>
+      <p> {{data.currentMV}} </p>
+    </div>
+  </div>
+</app-custom-card>

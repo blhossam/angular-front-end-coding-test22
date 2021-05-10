@@ -1,0 +1,51 @@
+@import '../../../variables/colors';
+@import '../../../variables/typography';
+
+.custom-card {
+
+  border-radius: 16px;
+  border-color: $snow;
+  border: 2px solid;
+  border-color: $snow;
+  box-shadow: none;
+  padding: 0 0 16px;
+
+  &-header {
+    background-color: $primary;
+    border-top-left-radius: 16px;
+    border-top-right-radius: 16px;
+    padding: 10px 40px;
+    font-size: $font-size-xl;
+    letter-spacing: 3px;
+    font-weight: 300;
+    color: $smoke;
+  }
+
+  &-img {
+    position: absolute;
+    top: 24px;
+    left: -36px
+  }
+
+  &-content {
+    padding: 32px 16px 16px;
+  }
+}
+
+.mat-badge {
+  position: absolute;
+}
+
+.mat-badge-medium.mat-badge-above .mat-badge-content {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 32px;
+  height: 32px;
+  background-color: $secondary;
+  border: 1px solid;
+  z-index: 1;
+  top: -62px;
+  left: 16px;
+}

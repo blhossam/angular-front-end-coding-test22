@@ -1,0 +1,16 @@
+<app-custom-card image="../../assets/images/3_books.svg" [badge]="notification" [cardTitle]="title">
+  <div fxLayout="column" fxLayoutGap="20px">
+    <div fxLayout fxLayoutAlign="center">
+      <img src="../../../assets/images/placeholder-insight.svg" alt="placeholder insight">
+    </div>
+    <div fxLayout fxLayoutAlign="center">
+      <button fxLayout
+              fxLayoutAlign="center"
+              mat-button
+              mat-stroked-button>
+        <mat-icon>add</mat-icon>
+        {{ composeModel }}
+      </button>
+    </div>
+  </div>
+</app-custom-card>

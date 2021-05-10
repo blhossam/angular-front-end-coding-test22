@@ -1,2 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
-$site-font: 'Source Sans Pro', 'sans-serif';
+@import './variables/colors';
+@import './variables/typography';
+@import '~@angular/material/prebuilt-themes/deeppurple-amber.css';
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+

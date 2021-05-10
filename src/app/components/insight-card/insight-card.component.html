@@ -1,0 +1,29 @@
+<app-custom-card image="../../assets/images/polygon-insights.svg" [cardTitle]="title">
+  <mat-card class="insight-card">
+    <mat-card-header class="insight-card-header">
+      <mat-card-title class="insight-card-title">{{ subCard.title }}</mat-card-title>
+    </mat-card-header>
+
+    <img class="insight-card-image" src="../../assets/images/insight-thumbnail.jpg" alt="insight thumbnail">
+
+    <mat-card-content>
+      <p class="insight-card-p"> {{ subCard.question }} </p>
+
+      <mat-divider class="insight-card-divider"></mat-divider>
+
+      <div fxLayout class="insight-card-by">
+        <mat-icon>chevron_right</mat-icon>
+        <p> {{ subCard.by }} <span>{{ subCard.name }}</span></p>
+      </div>
+
+      <p fxLayout class="insight-card-description">{{ subCard.description }}</p>
+
+      <mat-divider></mat-divider>
+
+      <div class="insight-card-regions" fxLayout fxLayoutGap="10px">
+        <img src="../../../assets/images/pictogram-regions.svg" alt="pictogram regions">
+        <p>{{ subCard.apac }}</p>
+      </div>
+    </mat-card-content>
+  </mat-card>
+</app-custom-card>

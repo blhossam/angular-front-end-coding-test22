@@ -1,0 +1,32 @@
+<mat-card class="strategie-card">
+  <mat-card-header class="strategie-card-header">
+    <p>{{ title }}</p>
+  </mat-card-header>
+  <span [matBadge]="notification" matBadgePosition="after"></span>
+  <img src="../../assets/images/2_stamp.svg" alt="stamp" class="strategie-card-img">
+  <mat-card-content class="strategie-card-content image" fxLayoutAlign="center">
+    <div fxLayout>
+      <div fxLayout="column" fxLayoutAlign="center">
+        <img src="../../../assets/images/arrow-backward-large.svg" alt="arrow backward">
+      </div>
+      <div fxLayout="column">
+        <div fxLayout fxLayoutAlign="center" class="strategie-card-content-name"> {{ name }} </div>
+        <div fxLayout fxLayoutAlign="center space-around">
+          <mat-divider class="strategie-card-divider"></mat-divider>
+        </div>
+        <p class="strategie-card-content-description">{{ description }}</p>
+
+        <div fxLayout fxLayoutAlign="center">
+          <button mat-raised-button class="strategie-card-button">
+            {{ viewSettings}}
+            <mat-icon>arrow_forward</mat-icon>
+          </button>
+        </div>
+
+      </div>
+      <div fxLayout="column" fxLayoutAlign="center">
+        <img src="../../../assets/images/arrow-forward-large.svg" alt="arrow forward">
+      </div>
+    </div>
+  </mat-card-content>
+</mat-card>

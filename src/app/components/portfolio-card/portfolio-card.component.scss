@@ -1,0 +1,14 @@
+@import '../../../variables/colors';
+
+button.mat-button {
+  font-style: italic;
+  border-radius: 24px;
+  border-color: $tertialy;
+  color: $tertialy;
+}
+
+mat-icon {
+  border-radius: 20px;
+  border: 1px solid;
+  margin-bottom: 2px;
+}

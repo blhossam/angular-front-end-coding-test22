@@ -1,0 +1,31 @@
+{
+  "welcomeCard": {
+    "title": "Hello, James Smithson.",
+    "welcome": "Welcome to your partner portail Alliance Bernstein.",
+    "content": "Get provided your strategies, portfolio models and insights to clients."
+  },
+  "startegieCard": {
+    "title": "Strategies",
+    "name": "AB GLOBAL DIVERSIFIED",
+    "description": "This strategy harnesses the firm's strength across asset classes and markets, applying an unconstrained approarch that results in holistic, integrated strategy.",
+    "viewSettings": "VIEW SETTINGS"
+  },
+  "portfolioCard": {
+    "title": "PORTFOLIO MODELS",
+    "composeModel": "Compose a model"
+  },
+  "managementCard": {
+    "title": "ASSETS UNDER MANAGEMENT"
+  },
+  "insightCard": {
+    "title": "LAST INSIGHT",
+    "subCard": {
+      "apac": "APAC",
+      "title": "Equites",
+      "question": "Is the trade War a Blesing in Disguise for China tech Sector?",
+      "by": "By",
+      "name": "Alliance Bernstein",
+      "description": "Complex ties between US and Chinese technology sectors are being tested by trade war tensions. But some steps taken by US against Chinese multinational giant Huawei. \n Technologies could backfire and spark a new phase of developement for the chinese"
+    }
+  }
+}

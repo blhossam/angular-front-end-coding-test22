@@ -1,0 +1,44 @@
+@import '../../../variables/colors';
+
+.mat-card {
+  color: $snow;
+  border-radius: 20px;
+  background: linear-gradient(135deg, $primary 0%, $tertialy 100%);
+}
+
+.welcome-card {
+  &-header {
+    margin: 0;
+    padding: 8px 32px 32px;
+    font-size: 20px;
+    font-weight: bold;
+  }
+
+  &-content {
+    font-size: 16px;
+    font-style: italic;
+    padding: 0px 62px;
+
+    >p {
+      color: $secondary;
+      margin: 0;
+    }
+
+    >span {
+      margin-top: 2px;
+      color: $smoke;
+    }
+  }
+
+  &-hands {
+    position: absolute;
+    top: 24px;
+    left: -34px
+  }
+
+  &-welcome {
+    position: absolute;
+    right: 24px;
+    top: -34px
+  }
+}

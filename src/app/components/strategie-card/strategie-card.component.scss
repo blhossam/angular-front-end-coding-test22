@@ -1,0 +1,89 @@
+@import '../../../variables/colors';
+@import '../../../variables/typography';
+
+.strategie-card {
+  border-radius: 16px;
+  border-color: $snow;
+  border: 2px solid;
+  border-color: $snow;
+  box-shadow: none;
+  padding: 0 0 10px;
+  height: 240px;
+
+  &-header {
+    color: $primary;
+    padding: 0px 46px;
+    font-size: $font-size-xl;
+    letter-spacing: 1px;
+    font-weight: 500;
+  }
+
+  &-img {
+    position: absolute;
+    top: 32px;
+    left: -36px
+  }
+
+  &-content {
+    padding: 16px;
+
+    &-name {
+      color: $snow;
+      font-size: $font-size-xl;
+    }
+
+    &-description {
+      color: $snow;
+      font-size: $font-size-lg;
+      margin: 14px 100px;
+      text-align: center;
+    }
+  }
+
+  &-divider.mat-divider-horizontal {
+    position: relative;
+    border-color: $secondary !important;
+    border: 1px solid;
+    margin-top: 10px;
+    width: 5%;
+  }
+}
+
+button {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  background-color: $tertialy;
+  color: $snow;
+  top: 12px;
+  padding: 0 28px;
+}
+
+.mat-badge {
+  position: absolute;
+}
+
+.mat-badge-medium.mat-badge-above .mat-badge-content {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 32px;
+  height: 32px;
+  background-color: $secondary;
+  border: 1px solid;
+  z-index: 1;
+  top: -20px;
+  left: 16px;
+}
+
+.image {
+  background: url(../../../assets/images/photo.jpg);
+  background-repeat: no-repeat;
+  height: 70%;
+  position: inherit;
+  left: 78px;
+  filter: brightness(0.85);
+  width: 90%;
+  background-size: 100% 100%;
+  border-radius: 10px;
+}

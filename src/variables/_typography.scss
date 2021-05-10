@@ -1,0 +1,14 @@
+@import './colors';
+
+$site-font: "Source Sans Pro", sans-serif;
+$font-size-xl: 20px;
+$font-size-lg: 16px;
+$font-size-md: 14px;
+$font-size-sm: 12px;
+
+
+body {
+  font-family: $site-font;
+  background-color: $pearl;
+  margin: 0;
+}

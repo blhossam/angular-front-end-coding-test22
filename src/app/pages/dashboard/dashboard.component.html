@@ -1,0 +1,20 @@
+<div fxLayout fxLayoutGap="20px" class="dashboard">
+  <div fxLayout="column" fxFlex="66" fxLayoutGap="30px">
+    <app-welcome-card></app-welcome-card>
+    <app-strategie-card></app-strategie-card>
+    <div fxLayout fxLayoutGap="20px">
+      <!-- Portfolio card -->
+      <div fxFlex="49">
+        <app-portfolio-card></app-portfolio-card>
+      </div>
+      <!-- Management card -->
+      <div fxFlex="49" class="dashboard-pl-32">
+        <app-management-card></app-management-card>
+      </div>
+    </div>
+  </div>
+  <!-- Insight card -->
+  <div fxFlex="30" class="dashboard-pl-32">
+    <app-insight-card></app-insight-card>
+  </div>
+</div>
